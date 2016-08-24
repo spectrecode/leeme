@@ -12,9 +12,9 @@ Ejemplo:
 3. abrir app Lima Delivery
 4. escoger lugar del pedido
 5. llamar
-    6. ¿contesta?
-    6. 1 **si** hacer pedido
-    6. 2 **no** regresar al paso "4"
+6. ¿contesta?
+    - **si** hacer pedido
+    - **no** regresar al paso "4"
 7. confirmar datos/pedido
 8. total de la cuenta
 9. terminar llamada
